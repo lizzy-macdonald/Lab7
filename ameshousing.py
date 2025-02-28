@@ -5,7 +5,7 @@
    "execution_count": 1,
    "id": "4efac03c",
    "metadata": {
-    "collapsed": true,
+    "collapsed": True,
     "execution": {
      "iopub.execute_input": "2024-12-14T17:08:08.775150Z",
      "iopub.status.busy": "2024-12-14T17:08:08.774731Z",
